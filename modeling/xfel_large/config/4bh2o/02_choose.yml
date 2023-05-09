@@ -1,0 +1,9 @@
+fit_data:
+  errors: /reduced/intensity_err
+  file: C:\Users\FO\Dropbox\work\reduced_data\common_h5\co2bpy3_h2o_100mm_xes_ka1ka2_298k_petra_iii_p01_2017_12_08t04_04_37.h5
+  motor: /reduced/e_out
+  x: /reduced/e_out
+  x_range:
+  - 6905
+  - 6945
+  y: /reduced/intensity

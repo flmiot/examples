@@ -1,0 +1,13 @@
+roi:
+    -   directory: /home/otteflor/scratch/tmp/e_calib_jungfrau_m125
+        roi: 0
+        indizes: [3,4,5,6,7,8]
+        guess_height: 230
+        lattice_constant: 5.431e-10
+        miller_indices: [5,3,1]
+    -   directory: /home/otteflor/scratch/tmp/e_calib_jungfrau_m260
+        roi: 0
+        indizes: [0,1,2,3,4,5,6]
+        guess_height: 100
+        lattice_constant: 5.658e-10
+        miller_indices: [4,4,4]

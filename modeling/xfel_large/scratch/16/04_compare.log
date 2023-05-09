@@ -1,0 +1,123 @@
+2022-05-29 07:51:55,697 INFO     ----------04_COMPARE----------
+2022-05-29 07:51:55,701 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 07:51:55,709 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 07:51:55,858 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 07:51:55,874 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 09:46:56,057 INFO     ----------04_COMPARE----------
+2022-05-29 09:46:56,057 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 09:46:56,057 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 09:46:56,084 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 09:46:56,100 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 09:56:54,119 INFO     ----------04_COMPARE----------
+2022-05-29 09:56:54,119 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 09:56:54,127 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 09:56:54,175 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 09:57:22,722 INFO     ----------04_COMPARE----------
+2022-05-29 09:57:22,722 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 09:57:22,738 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 09:57:22,785 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:01:47,457 INFO     ----------04_COMPARE----------
+2022-05-29 10:01:47,461 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:01:47,463 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:01:47,495 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:02:08,764 INFO     ----------04_COMPARE----------
+2022-05-29 10:02:08,764 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:02:08,764 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:02:08,796 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:03:12,464 INFO     ----------04_COMPARE----------
+2022-05-29 10:03:12,464 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:03:12,464 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:03:12,503 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:03:12,510 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 10:04:14,099 INFO     ----------04_COMPARE----------
+2022-05-29 10:04:14,103 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:04:14,107 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:04:14,135 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:04:14,158 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 10:04:25,054 INFO     ----------04_COMPARE----------
+2022-05-29 10:04:25,054 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:04:25,069 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:04:25,101 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:04:25,117 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 10:04:34,734 INFO     ----------04_COMPARE----------
+2022-05-29 10:04:34,734 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:04:34,734 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:04:34,766 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:04:34,782 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 10:04:59,914 INFO     ----------04_COMPARE----------
+2022-05-29 10:04:59,915 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:04:59,919 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:04:59,940 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:04:59,954 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 10:05:50,439 INFO     ----------04_COMPARE----------
+2022-05-29 10:05:50,440 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:05:50,442 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:05:50,472 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:05:50,487 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 10:06:30,345 INFO     ----------04_COMPARE----------
+2022-05-29 10:06:30,345 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:06:30,360 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:06:30,392 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:06:30,407 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 10:06:53,399 INFO     ----------04_COMPARE----------
+2022-05-29 10:06:53,399 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:06:53,399 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:06:53,431 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:06:53,447 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 10:08:38,399 INFO     ----------04_COMPARE----------
+2022-05-29 10:08:38,400 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:08:38,403 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:08:38,432 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:08:38,451 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 10:08:52,964 INFO     ----------04_COMPARE----------
+2022-05-29 10:08:52,966 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:08:52,969 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:08:53,003 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:08:53,021 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 10:09:22,384 INFO     ----------04_COMPARE----------
+2022-05-29 10:09:22,386 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:09:22,391 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:09:22,421 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:09:22,436 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 10:14:58,209 INFO     ----------04_COMPARE----------
+2022-05-29 10:14:58,209 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:14:58,209 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:14:58,241 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:15:57,899 INFO     ----------04_COMPARE----------
+2022-05-29 10:15:57,899 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:15:57,902 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:15:57,930 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:16:14,914 INFO     ----------04_COMPARE----------
+2022-05-29 10:16:14,914 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:16:14,914 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:16:14,945 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:17:27,188 INFO     ----------04_COMPARE----------
+2022-05-29 10:17:27,188 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:17:27,188 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:17:27,219 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:17:27,238 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 10:17:43,851 INFO     ----------04_COMPARE----------
+2022-05-29 10:17:43,851 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:17:43,866 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:17:43,898 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:17:43,914 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 10:18:14,996 INFO     ----------04_COMPARE----------
+2022-05-29 10:18:14,996 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:18:15,003 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:18:15,033 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:18:15,052 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 10:18:36,323 INFO     ----------04_COMPARE----------
+2022-05-29 10:18:36,324 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:18:36,328 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:18:36,357 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:18:36,375 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 10:18:52,342 INFO     ----------04_COMPARE----------
+2022-05-29 10:18:52,342 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:18:52,342 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:18:52,373 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:18:52,389 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 10:19:00,919 INFO     ----------04_COMPARE----------
+2022-05-29 10:19:00,920 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 10:19:00,923 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 10:19:00,951 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:19:00,965 INFO     Calculating descriptive parameters for group (3,4)_sorted

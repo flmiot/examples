@@ -1,0 +1,7 @@
+fit_data:
+    file: /home/otteflor/scratch/tmp/2699_081/09_assemble.h5
+    x : /0/energy
+    y : /0/on
+    errors: /0/on_errors
+    motor: /0/motor
+    x_range: [6900, 6950]

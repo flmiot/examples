@@ -1,0 +1,11 @@
+roi:
+    -
+        signal: 0
+        background : [1,2]
+        integration_axes : [1,2]
+        normalization_region: [255, 420]
+    -
+        signal: 3
+        background : [4,5]
+        integration_axes : [1,2]
+        normalization_region: [75, 730]

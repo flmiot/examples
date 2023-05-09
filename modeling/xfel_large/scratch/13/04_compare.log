@@ -1,0 +1,50 @@
+2022-05-29 07:45:05,154 INFO     ----------04_COMPARE----------
+2022-05-29 07:45:05,154 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 07:45:05,154 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 07:45:05,276 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 07:45:05,294 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 08:04:12,606 INFO     ----------04_COMPARE----------
+2022-05-29 08:04:12,606 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 08:04:12,612 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 08:04:12,711 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 08:04:12,747 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 08:07:34,653 INFO     ----------04_COMPARE----------
+2022-05-29 08:07:34,653 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 08:07:34,657 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 08:07:34,685 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 08:07:34,719 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 08:08:09,700 INFO     ----------04_COMPARE----------
+2022-05-29 08:08:09,701 INFO     Found 25 files with fitting results. Collecting ... 
+2022-05-29 08:08:09,705 INFO     Creating new arrays with shape (25, 1, 16)
+2022-05-29 08:08:09,742 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 08:08:09,778 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 08:20:51,628 INFO     ----------04_COMPARE----------
+2022-05-29 08:20:51,629 INFO     Found 150 files with fitting results. Collecting ... 
+2022-05-29 08:20:51,636 INFO     Creating new arrays with shape (150, 1, 16)
+2022-05-29 08:20:52,371 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 08:20:52,592 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 08:43:25,826 INFO     ----------04_COMPARE----------
+2022-05-29 08:43:25,828 INFO     Found 150 files with fitting results. Collecting ... 
+2022-05-29 08:43:25,835 INFO     Creating new arrays with shape (150, 1, 16)
+2022-05-29 08:43:26,492 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 08:43:26,684 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 08:51:47,354 INFO     ----------04_COMPARE----------
+2022-05-29 08:51:47,354 INFO     Found 20 files with fitting results. Collecting ... 
+2022-05-29 08:51:47,370 INFO     Creating new arrays with shape (20, 1, 20)
+2022-05-29 08:51:47,448 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 08:51:47,480 INFO     Calculating descriptive parameters for group (3,4,5)_sorted
+2022-05-29 09:44:30,188 INFO     ----------04_COMPARE----------
+2022-05-29 09:44:30,188 INFO     Found 20 files with fitting results. Collecting ... 
+2022-05-29 09:44:30,188 INFO     Creating new arrays with shape (20, 1, 16)
+2022-05-29 09:44:30,267 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 09:44:30,283 INFO     Calculating descriptive parameters for group (3,4,5)_sorted
+2022-05-29 09:45:15,428 INFO     ----------04_COMPARE----------
+2022-05-29 09:45:15,428 INFO     Found 20 files with fitting results. Collecting ... 
+2022-05-29 09:45:15,428 INFO     Creating new arrays with shape (20, 1, 16)
+2022-05-29 09:45:15,460 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 09:45:15,475 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-05-29 10:25:07,366 INFO     ----------04_COMPARE----------
+2022-05-29 10:25:07,381 INFO     Found 20 files with fitting results. Collecting ... 
+2022-05-29 10:25:07,381 INFO     Creating new arrays with shape (20, 1, 16)
+2022-05-29 10:25:07,398 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-05-29 10:25:07,413 INFO     Calculating descriptive parameters for group (3,4)_sorted

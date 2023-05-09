@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>resources/icons8-löschen-52.png</file>
+    <file>resources/icons8-über-52.png</file>
+    <file>resources/icons8-fuchs-48.png</file>
+    <file>resources/icons8-neue-datei-80.png</file>
+    <file>resources/icons8-suche-104.png</file>
+  </qresource>
+</RCC>

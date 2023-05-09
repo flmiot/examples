@@ -1,0 +1,9 @@
+scan_motor:
+  da_name: DA01
+  dataset: /CONTROL/FXE_AUXT_LIC/DOOCS/PPODL/actualPosition/value
+  trainId: /INDEX/trainId
+normalization:
+    roi : 3
+filtering:
+    min_points : 200
+    value_threshold: 1

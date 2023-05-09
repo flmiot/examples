@@ -1,0 +1,9 @@
+fit_data:
+  errors: /reduced/intensity_err
+  file: C:\Users\FO\Dropbox\work\reduced_data\common_h5\co3bpy3_xes_ka1ka2_298k_delta_bl9_2019_09_25t01_05_20.h5
+  motor: /reduced/e_out
+  x: /reduced/e_out
+  x_range:
+  - 6905
+  - 6945
+  y: /reduced/intensity

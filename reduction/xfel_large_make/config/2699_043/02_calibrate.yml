@@ -1,0 +1,44 @@
+jungfrau_m233:
+    gain :
+        file: /pnfs/xfel.eu/exfel/archive/XFEL/cal/caldb_store/xfel/cal/jungfrau-type/jungfrau_m233/cal.1554372161.8620348.h5
+        dataset : /Jungfrau_M233/RelativeGain10Hz/0/data
+        max_allowed_non_g0_pixels: 5
+    mask :
+        file: /pnfs/xfel.eu/exfel/archive/XFEL/cal/caldb_store/xfel/cal/jungfrau-type/jungfrau_m233/cal.1643275478.610829.h5
+        dataset : /Jungfrau_M233/BadPixelsDark10Hz/0/data
+    pedestal:
+            g0: /pnfs/xfel.eu/exfel/archive/XFEL/raw/FXE/202022/p002699/r0046/
+            g1: /pnfs/xfel.eu/exfel/archive/XFEL/raw/FXE/202022/p002699/r0047/
+            g2: /pnfs/xfel.eu/exfel/archive/XFEL/raw/FXE/202022/p002699/r0048/
+            file_index: 0
+            indizes : [0, 15] 
+
+jungfrau_m125:
+    gain :
+        file: /pnfs/xfel.eu/exfel/archive/XFEL/cal/caldb_store/xfel/cal/jungfrau-type/jungfrau_m125/cal.1554365885.8320708.h5
+        dataset : /Jungfrau_M125/RelativeGain10Hz/0/data
+        max_allowed_non_g0_pixels: 5
+    mask :
+        file: /pnfs/xfel.eu/exfel/archive/XFEL/cal/caldb_store/xfel/cal/jungfrau-type/jungfrau_m125/cal.1638079364.9190245.h5
+        dataset : /Jungfrau_M125/BadPixelsDark10Hz/0/data
+    pedestal:
+            g0: /pnfs/xfel.eu/exfel/archive/XFEL/raw/FXE/202022/p002699/r0046/
+            g1: /pnfs/xfel.eu/exfel/archive/XFEL/raw/FXE/202022/p002699/r0047/
+            g2: /pnfs/xfel.eu/exfel/archive/XFEL/raw/FXE/202022/p002699/r0048/
+            file_index: 0
+            indizes : [0, 15]
+
+jungfrau_m260:
+    gain :
+        file: /pnfs/xfel.eu/exfel/archive/XFEL/cal/caldb_store/xfel/cal/jungfrau-type/jungfrau_m260/cal.1573128123.747409.h5
+        dataset : /Jungfrau_M260/RelativeGain10Hz/0/data
+        max_allowed_non_g0_pixels: 10
+    mask :
+        file: /pnfs/xfel.eu/exfel/archive/XFEL/cal/caldb_store/xfel/cal/jungfrau-type/jungfrau_m260/cal.1645845834.964154.h5
+        dataset : /Jungfrau_M260/BadPixelsDark10Hz/0/data
+    pedestal:
+            g0: /pnfs/xfel.eu/exfel/archive/XFEL/raw/FXE/202022/p002699/r0046/
+            g1: /pnfs/xfel.eu/exfel/archive/XFEL/raw/FXE/202022/p002699/r0047/
+            g2: /pnfs/xfel.eu/exfel/archive/XFEL/raw/FXE/202022/p002699/r0048/
+            file_index: 0
+            indizes : [0, 15]

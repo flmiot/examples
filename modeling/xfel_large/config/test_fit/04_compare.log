@@ -1,0 +1,217 @@
+2022-03-10 21:50:32,503 INFO     ----------04_COMPARE----------
+2022-03-10 21:51:11,120 INFO     ----------04_COMPARE----------
+2022-03-10 21:51:11,120 INFO     Found 5 files with fitting results. Collecting ... 
+2022-03-10 21:55:48,882 INFO     ----------04_COMPARE----------
+2022-03-10 21:55:48,882 INFO     Found 5 files with fitting results. Collecting ... 
+2022-03-10 21:55:48,882 INFO     Creating new array with shape (16, 12)
+2022-03-10 21:56:29,653 INFO     ----------04_COMPARE----------
+2022-03-10 21:56:29,653 INFO     Found 5 files with fitting results. Collecting ... 
+2022-03-10 21:56:29,653 INFO     Creating new array with shape (5, 16, 12)
+2022-03-10 22:01:24,012 INFO     ----------04_COMPARE----------
+2022-03-10 22:01:24,014 INFO     Found 5 files with fitting results. Collecting ... 
+2022-03-10 22:01:24,014 INFO     Creating new arrays with shape (5, 16, 12)
+2022-03-10 22:04:16,639 INFO     ----------04_COMPARE----------
+2022-03-10 22:04:16,639 INFO     Found 5 files with fitting results. Collecting ... 
+2022-03-10 22:04:16,649 INFO     Creating new arrays with shape (5, 16, 12)
+2022-03-10 22:17:54,240 INFO     ----------04_COMPARE----------
+2022-03-10 22:17:54,241 INFO     Found 5 files with fitting results. Collecting ... 
+2022-03-10 22:17:54,243 INFO     Creating new arrays with shape (5, 16, 12)
+2022-03-10 22:18:02,824 INFO     ----------04_COMPARE----------
+2022-03-10 22:18:02,824 INFO     Found 5 files with fitting results. Collecting ... 
+2022-03-10 22:18:02,824 INFO     Creating new arrays with shape (5, 16, 12)
+2022-03-10 22:18:18,596 INFO     ----------04_COMPARE----------
+2022-03-10 22:18:18,596 INFO     Found 5 files with fitting results. Collecting ... 
+2022-03-10 22:18:18,606 INFO     Creating new arrays with shape (5, 16, 12)
+2022-03-10 22:41:32,884 INFO     ----------04_COMPARE----------
+2022-03-10 22:41:32,884 INFO     Found 5 files with fitting results. Collecting ... 
+2022-03-10 22:41:32,899 INFO     Creating new arrays with shape (5, 16, 12)
+2022-03-10 22:41:50,487 INFO     ----------04_COMPARE----------
+2022-03-10 22:41:50,487 INFO     Found 5 files with fitting results. Collecting ... 
+2022-03-10 22:41:50,494 INFO     Creating new arrays with shape (5, 16, 12)
+2022-03-10 22:42:53,050 INFO     ----------04_COMPARE----------
+2022-03-10 22:42:53,050 INFO     Found 5 files with fitting results. Collecting ... 
+2022-03-10 22:42:53,050 INFO     Creating new arrays with shape (5, 16, 12)
+2022-03-10 22:44:12,776 INFO     ----------04_COMPARE----------
+2022-03-10 22:44:12,776 INFO     Found 5 files with fitting results. Collecting ... 
+2022-03-10 22:44:12,776 INFO     Creating new arrays with shape (5, 16, 12)
+2022-03-10 22:45:11,214 INFO     ----------04_COMPARE----------
+2022-03-10 22:45:11,214 INFO     Found 5 files with fitting results. Collecting ... 
+2022-03-10 22:45:11,214 INFO     Creating new arrays with shape (5, 16, 12)
+2022-03-10 23:00:41,279 INFO     ----------04_COMPARE----------
+2022-03-10 23:00:41,283 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-10 23:00:41,291 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 09:44:13,492 INFO     ----------04_COMPARE----------
+2022-03-11 09:44:13,492 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 09:44:13,508 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 09:44:26,509 INFO     ----------04_COMPARE----------
+2022-03-11 09:44:26,509 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 09:44:26,525 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 09:44:36,836 INFO     ----------04_COMPARE----------
+2022-03-11 09:44:36,836 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 09:44:36,836 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 09:45:21,143 INFO     ----------04_COMPARE----------
+2022-03-11 09:45:21,143 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 09:45:21,159 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:13:54,116 INFO     ----------04_COMPARE----------
+2022-03-11 10:13:54,116 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:13:54,116 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:14:26,617 INFO     ----------04_COMPARE----------
+2022-03-11 10:14:26,617 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:14:26,617 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:15:12,774 INFO     ----------04_COMPARE----------
+2022-03-11 10:15:12,774 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:15:12,774 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:17:26,042 INFO     ----------04_COMPARE----------
+2022-03-11 10:17:26,042 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:17:26,042 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:17:56,616 INFO     ----------04_COMPARE----------
+2022-03-11 10:17:56,616 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:17:56,631 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:21:27,331 INFO     ----------04_COMPARE----------
+2022-03-11 10:21:27,331 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:21:27,346 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:21:53,151 INFO     ----------04_COMPARE----------
+2022-03-11 10:21:53,151 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:21:53,166 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:22:07,707 INFO     ----------04_COMPARE----------
+2022-03-11 10:22:07,707 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:22:07,707 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:22:19,698 INFO     ----------04_COMPARE----------
+2022-03-11 10:22:19,698 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:22:19,698 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:23:08,836 INFO     ----------04_COMPARE----------
+2022-03-11 10:23:08,836 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:23:08,836 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:24:07,663 INFO     ----------04_COMPARE----------
+2022-03-11 10:24:07,663 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:24:07,663 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:25:24,430 INFO     ----------04_COMPARE----------
+2022-03-11 10:25:24,430 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:25:24,445 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:25:57,494 INFO     ----------04_COMPARE----------
+2022-03-11 10:25:57,494 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:25:57,494 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:27:05,747 INFO     ----------04_COMPARE----------
+2022-03-11 10:27:05,747 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:27:05,747 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:27:19,069 INFO     ----------04_COMPARE----------
+2022-03-11 10:27:19,069 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:27:19,085 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:28:04,291 INFO     ----------04_COMPARE----------
+2022-03-11 10:28:04,291 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:28:04,291 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:28:55,290 INFO     ----------04_COMPARE----------
+2022-03-11 10:28:55,306 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:28:55,306 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:30:52,993 INFO     ----------04_COMPARE----------
+2022-03-11 10:30:52,993 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:30:53,008 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:31:42,284 INFO     ----------04_COMPARE----------
+2022-03-11 10:31:42,284 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:31:42,300 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:32:57,840 INFO     ----------04_COMPARE----------
+2022-03-11 10:32:57,856 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:32:57,856 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:33:17,327 INFO     ----------04_COMPARE----------
+2022-03-11 10:33:17,327 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:33:17,342 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:39:40,653 INFO     ----------04_COMPARE----------
+2022-03-11 10:39:40,653 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:39:40,653 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:40:43,474 INFO     ----------04_COMPARE----------
+2022-03-11 10:40:43,474 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:40:43,474 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:41:17,519 INFO     ----------04_COMPARE----------
+2022-03-11 10:41:17,519 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:41:17,519 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:42:18,759 INFO     ----------04_COMPARE----------
+2022-03-11 10:42:18,759 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:42:18,759 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:42:31,281 INFO     ----------04_COMPARE----------
+2022-03-11 10:42:31,281 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:42:31,281 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:43:34,712 INFO     ----------04_COMPARE----------
+2022-03-11 10:43:34,712 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:43:34,728 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:43:46,804 INFO     ----------04_COMPARE----------
+2022-03-11 10:43:46,804 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:43:46,820 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:45:45,497 INFO     ----------04_COMPARE----------
+2022-03-11 10:45:45,497 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:45:45,497 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:45:45,810 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-03-11 10:45:46,404 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-03-11 10:47:50,468 INFO     ----------04_COMPARE----------
+2022-03-11 10:47:50,468 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:47:50,468 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:47:50,780 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-03-11 10:48:24,259 INFO     ----------04_COMPARE----------
+2022-03-11 10:48:24,259 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 10:48:24,275 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 10:48:24,587 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-03-11 10:48:25,772 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-03-11 11:17:15,749 INFO     ----------04_COMPARE----------
+2022-03-11 11:17:15,749 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 11:17:15,765 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 11:17:16,083 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-03-11 11:19:19,837 INFO     ----------04_COMPARE----------
+2022-03-11 11:19:19,837 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 11:19:19,837 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 11:19:20,176 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-03-11 11:19:59,223 INFO     ----------04_COMPARE----------
+2022-03-11 11:19:59,223 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 11:19:59,239 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 11:19:59,562 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-03-11 11:20:02,690 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-03-11 11:24:13,500 INFO     ----------04_COMPARE----------
+2022-03-11 11:24:13,500 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 11:24:13,500 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 11:24:13,828 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-03-11 11:24:17,008 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-03-11 11:30:05,275 INFO     ----------04_COMPARE----------
+2022-03-11 11:30:05,278 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 11:30:05,282 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 11:30:05,613 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-03-11 11:30:40,153 INFO     ----------04_COMPARE----------
+2022-03-11 11:30:40,155 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 11:30:40,160 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 11:30:40,489 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-03-11 11:39:35,653 INFO     ----------04_COMPARE----------
+2022-03-11 11:39:35,656 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 11:39:35,660 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 11:39:35,998 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-03-11 11:40:57,363 INFO     ----------04_COMPARE----------
+2022-03-11 11:40:57,365 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 11:40:57,369 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 11:40:57,713 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-03-11 11:41:59,151 INFO     ----------04_COMPARE----------
+2022-03-11 11:41:59,153 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 11:41:59,158 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 11:41:59,494 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-03-11 11:42:07,753 INFO     ----------04_COMPARE----------
+2022-03-11 11:42:07,755 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 11:42:07,760 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 11:42:08,099 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-03-11 11:42:31,442 INFO     ----------04_COMPARE----------
+2022-03-11 11:42:31,444 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 11:42:31,449 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 11:42:31,789 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-03-11 11:46:16,662 INFO     ----------04_COMPARE----------
+2022-03-11 11:46:16,664 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 11:46:16,669 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 11:46:17,004 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-03-11 11:46:18,231 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-03-11 11:49:52,279 INFO     ----------04_COMPARE----------
+2022-03-11 11:49:52,282 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 11:49:52,286 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 11:49:52,624 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-03-11 11:50:35,398 INFO     ----------04_COMPARE----------
+2022-03-11 11:50:35,400 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 11:50:35,404 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 11:50:35,735 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-03-11 11:50:39,262 INFO     Calculating descriptive parameters for group (3,4)_sorted
+2022-03-11 11:58:41,328 INFO     ----------04_COMPARE----------
+2022-03-11 11:58:41,330 INFO     Found 100 files with fitting results. Collecting ... 
+2022-03-11 11:58:41,334 INFO     Creating new arrays with shape (100, 16, 12)
+2022-03-11 11:58:41,677 INFO     Calculating descriptive parameters for group (1,2)_sorted
+2022-03-11 11:58:45,468 INFO     Calculating descriptive parameters for group (3,4)_sorted

@@ -1,0 +1,50 @@
+directory: /pnfs/xfel.eu/exfel/archive/XFEL/raw/FXE/202022/p002699/r0072/
+roi:
+- detector: jungfrau_m125
+  dim0:
+  - 307
+  - 328
+  dim1:
+  - 0
+  - 512
+  veto_group: 0
+- detector: jungfrau_m125
+  dim0:
+  - 279
+  - 300
+  dim1:
+  - 0
+  - 512
+  veto_group: 0
+- detector: jungfrau_m125
+  dim0:
+  - 340
+  - 361
+  dim1:
+  - 0
+  - 512
+  veto_group: 0
+- detector: jungfrau_m260
+  dim0:
+  - 307
+  - 328
+  dim1:
+  - 0
+  - 1024
+  veto_group: 1
+- detector: jungfrau_m260
+  dim0:
+  - 279
+  - 300
+  dim1:
+  - 0
+  - 1024
+  veto_group: 1
+- detector: jungfrau_m260
+  dim0:
+  - 340
+  - 361
+  dim1:
+  - 0
+  - 1024
+  veto_group: 1

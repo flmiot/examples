@@ -1,0 +1,25 @@
+# This YAML file holds dataset names and file paths for X-ray detectors used during 202022/p2699
+jungfrau_m233:
+    da_name: JNGFR01
+    datasets :
+        adc : /INSTRUMENT/FXE_XAD_JF1M/DET/JNGFR01:daqOutput/data/adc
+        gain : /INSTRUMENT/FXE_XAD_JF1M/DET/JNGFR01:daqOutput/data/gain
+        trainId : /INDEX/trainId
+        timestamp: /INDEX/timestamp
+
+jungfrau_m125:
+    da_name: JNGFR02
+    datasets :
+        adc : /INSTRUMENT/FXE_XAD_JF1M/DET/JNGFR02:daqOutput/data/adc
+        gain : /INSTRUMENT/FXE_XAD_JF1M/DET/JNGFR02:daqOutput/data/gain
+        trainId : /INDEX/trainId
+        timestamp: /INDEX/timestamp
+
+jungfrau_m260:
+    da_name: JNGFR03
+    datasets :
+        adc : /INSTRUMENT/FXE_XAD_JF500K/DET/JNGFR03:daqOutput/data/adc
+        gain : /INSTRUMENT/FXE_XAD_JF500K/DET/JNGFR03:daqOutput/data/gain
+        trainId : /INDEX/trainId
+        timestamp: /INDEX/timestamp
+

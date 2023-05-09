@@ -1,0 +1,3 @@
+roi:
+    - normalization_region: [255, 420]
+    - normalization_region: [75, 730]

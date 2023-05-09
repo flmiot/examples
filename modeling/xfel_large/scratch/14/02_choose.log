@@ -1,0 +1,4 @@
+2022-05-29 07:51:23,156 INFO     ----------02_CHOOSE----------
+2022-05-29 07:51:23,190 INFO     Read guess array for 25 fit, 1024 points and 16 parameters
+2022-05-29 07:51:23,191 INFO     Reshape guess array to (25, 1024, 4, 4), corresponding to 25 fits, 1024 points, 4 components and 4 parameters per component
+2022-05-29 07:51:23,191 INFO     Creating residuals array with shape (25, 1024, 153)

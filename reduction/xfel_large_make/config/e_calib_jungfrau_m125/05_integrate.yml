@@ -1,0 +1,6 @@
+roi:
+    -
+        signal: 0
+        background : [1,2]
+        integration_axes : [1,2]
+        normalization_region: False

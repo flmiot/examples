@@ -1,0 +1,3 @@
+2022-05-29 07:43:41,418 INFO     ----------03_OPTIMIZE----------
+2022-05-29 07:43:41,419 INFO     Creating fits directory
+2022-05-29 07:43:41,427 INFO     Spawning worker pool (max 4 workers) to crunch 25 fits for 1 steps

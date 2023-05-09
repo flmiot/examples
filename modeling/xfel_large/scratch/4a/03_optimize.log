@@ -1,0 +1,63 @@
+2022-05-28 19:52:22,163 INFO     ----------03_OPTIMIZE----------
+2022-05-28 19:52:22,164 INFO     Creating fits directory
+2022-05-28 19:52:22,170 INFO     Spawning worker pool (max 1 workers) to crunch 5 fits for 1 steps
+2022-05-28 19:57:34,419 INFO     ----------03_OPTIMIZE----------
+2022-05-28 19:57:34,419 INFO     Deleting old fit files (0 files)
+2022-05-28 19:57:34,424 INFO     Spawning worker pool (max 1 workers) to crunch 5 fits for 1 steps
+2022-05-28 19:58:02,828 INFO     ----------03_OPTIMIZE----------
+2022-05-28 19:58:02,829 INFO     Deleting old fit files (0 files)
+2022-05-28 19:58:02,834 INFO     Spawning worker pool (max 1 workers) to crunch 5 fits for 1 steps
+2022-05-28 20:00:14,821 INFO     ----------03_OPTIMIZE----------
+2022-05-28 20:00:14,824 INFO     Deleting old fit files (0 files)
+2022-05-28 20:00:14,829 INFO     Spawning worker pool (max 1 workers) to crunch 5 fits for 1 steps
+2022-05-28 20:02:24,354 INFO     ----------03_OPTIMIZE----------
+2022-05-28 20:02:24,354 INFO     Deleting old fit files (0 files)
+2022-05-28 20:02:24,355 INFO     Spawning worker pool (max 1 workers) to crunch 5 fits for 1 steps
+2022-05-28 20:03:49,918 INFO     ----------03_OPTIMIZE----------
+2022-05-28 20:03:49,919 INFO     Deleting old fit files (0 files)
+2022-05-28 20:03:49,924 INFO     Spawning worker pool (max 1 workers) to crunch 5 fits for 1 steps
+2022-05-28 21:42:20,141 INFO     ----------03_OPTIMIZE----------
+2022-05-28 21:42:20,142 INFO     Deleting old fit files (5 files)
+2022-05-28 21:42:20,147 INFO     Spawning worker pool (max 1 workers) to crunch 5 fits for 1 steps
+2022-05-28 21:42:58,564 INFO     ----------03_OPTIMIZE----------
+2022-05-28 21:42:58,565 INFO     Deleting old fit files (0 files)
+2022-05-28 21:42:58,566 INFO     Spawning worker pool (max 1 workers) to crunch 5 fits for 1 steps
+2022-05-28 21:44:15,275 INFO     ----------03_OPTIMIZE----------
+2022-05-28 21:44:15,275 INFO     Deleting old fit files (0 files)
+2022-05-28 21:44:15,279 INFO     Spawning worker pool (max 1 workers) to crunch 5 fits for 1 steps
+2022-05-28 21:44:35,303 INFO     ----------03_OPTIMIZE----------
+2022-05-28 21:44:35,304 INFO     Deleting old fit files (0 files)
+2022-05-28 21:44:35,308 INFO     Spawning worker pool (max 1 workers) to crunch 5 fits for 1 steps
+2022-05-28 21:47:22,632 INFO     ----------03_OPTIMIZE----------
+2022-05-28 21:47:22,632 INFO     Deleting old fit files (0 files)
+2022-05-28 21:47:22,637 INFO     Spawning worker pool (max 1 workers) to crunch 5 fits for 1 steps
+2022-05-28 21:48:27,470 INFO     ----------03_OPTIMIZE----------
+2022-05-28 21:48:27,471 INFO     Deleting old fit files (0 files)
+2022-05-28 21:48:27,475 INFO     Spawning worker pool (max 1 workers) to crunch 5 fits for 1 steps
+2022-05-28 21:48:43,378 INFO     ----------03_OPTIMIZE----------
+2022-05-28 21:48:43,378 INFO     Deleting old fit files (0 files)
+2022-05-28 21:48:43,380 INFO     Spawning worker pool (max 1 workers) to crunch 5 fits for 1 steps
+2022-05-28 21:49:05,213 INFO     ----------03_OPTIMIZE----------
+2022-05-28 21:49:05,214 INFO     Deleting old fit files (0 files)
+2022-05-28 21:49:05,215 INFO     Spawning worker pool (max 1 workers) to crunch 5 fits for 1 steps
+2022-05-28 21:49:38,312 INFO     ----------03_OPTIMIZE----------
+2022-05-28 21:49:38,312 INFO     Deleting old fit files (0 files)
+2022-05-28 21:49:38,314 INFO     Spawning worker pool (max 1 workers) to crunch 5 fits for 1 steps
+2022-05-28 21:52:21,475 INFO     ----------03_OPTIMIZE----------
+2022-05-28 21:52:21,476 INFO     Deleting old fit files (0 files)
+2022-05-28 21:52:21,480 INFO     Spawning worker pool (max 1 workers) to crunch 5 fits for 1 steps
+2022-05-28 21:53:26,613 INFO     ----------03_OPTIMIZE----------
+2022-05-28 21:53:26,614 INFO     Deleting old fit files (0 files)
+2022-05-28 21:53:26,618 INFO     Spawning worker pool (max 1 workers) to crunch 5 fits for 1 steps
+2022-05-28 21:59:07,869 INFO     ----------03_OPTIMIZE----------
+2022-05-28 21:59:07,870 INFO     Deleting old fit files (5 files)
+2022-05-28 21:59:07,875 INFO     Spawning worker pool (max 1 workers) to crunch 5 fits for 1 steps
+2022-05-28 21:59:39,570 INFO     ----------03_OPTIMIZE----------
+2022-05-28 21:59:39,570 INFO     Deleting old fit files (5 files)
+2022-05-28 21:59:39,572 INFO     Spawning worker pool (max 4 workers) to crunch 5 fits for 1 steps
+2022-05-28 22:00:17,014 INFO     ----------03_OPTIMIZE----------
+2022-05-28 22:00:17,015 INFO     Deleting old fit files (5 files)
+2022-05-28 22:00:17,020 INFO     Spawning worker pool (max 4 workers) to crunch 25 fits for 1 steps
+2022-05-28 22:08:46,869 INFO     ----------03_OPTIMIZE----------
+2022-05-28 22:08:46,869 INFO     Deleting old fit files (25 files)
+2022-05-28 22:08:46,875 INFO     Spawning worker pool (max 4 workers) to crunch 25 fits for 1 steps
