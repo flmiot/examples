@@ -10,7 +10,7 @@ conda install -c anaconda pyqtgraph
 This specific example is a very simple HDF5 file inspector. The functionality includes inspection of the group & dataset structure and visualization of 1D and 2D data.
 
 ## Quickstart
-- *.ui files: Edit this files to your liking with the QT Designer program. This files provide the layout of the GUI. QT Designer is not officially available anymore, 
+- *.ui files: Edit these files to your liking with the QT Designer program. These files provide the layout of the GUI. QT Designer is not officially available anymore, 
 but a kind individual is still providing binaries for windows. A quick google search will help. 
 
 - Implementation: Here, the *.ui files are dynamically loaded during runtime via the uic module. A lot of documentation for PyQT5 
